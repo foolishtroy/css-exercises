@@ -1,0 +1,19 @@
+.first {
+    background-color: #ff8989;
+    font-family: Verdana, "Dejavu Sana", sans-serif;
+}
+
+#second {
+    color: #0000ff;
+    font-size:36px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: #3cff9a;
+    font-size: 24px;
+    font-weight: bold;
+}
